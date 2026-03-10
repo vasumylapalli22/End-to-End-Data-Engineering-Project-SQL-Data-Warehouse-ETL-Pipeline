@@ -1,19 +1,21 @@
-This project demonstrates an End-to-End SQL Data Warehouse solution built using SQL Server.  
-The project follows a modern data engineering architecture with Bronze, Silver, and Gold layers, 
-including ETL processes, data cleaning, transformation, and data modeling.
+End-to-End Data Warehouse Project built using SQL Server to demonstrate real-world
+Data Engineering and Data Analytics workflow.
 
-Multiple source systems such as CRM and ERP datasets are integrated into a centralized 
-data warehouse to create an analytics-ready dataset.
+This project implements a modern Data Warehouse architecture using Bronze, Silver,
+and Gold layers with ETL pipeline, data cleaning, transformation, and data modeling.
+Data from multiple source systems (CRM & ERP) is integrated into a centralized
+warehouse to create an analytics-ready dataset.
 
-Key Features:
-- ETL Pipeline using SQL
-- Bronze, Silver, Gold Data Layers
-- Data Cleaning and Transformation
-- Data Modeling (Fact & Dimension Tables)
-- Data Quality Checks
-- Stored Procedures
-- Performance Optimization
-- Architecture Diagram
+Key Highlights:
+• Designed ETL pipeline using SQL Server
+• Implemented Bronze, Silver, Gold data layers
+• Performed data cleaning and transformation
+• Created Fact and Dimension tables for analytics
+• Applied data quality validation checks
+• Used Stored Procedures for automation
+• Optimized queries for better performance
+• Built architecture diagram for workflow design
 
-This project is designed to demonstrate real-world Data Warehouse, SQL Developer,
-and Data Analyst skills.
+This project showcases practical skills in SQL, Data Warehousing,
+ETL Development, and Data Analysis, suitable for Data Analyst /
+SQL Developer / Data Engineer roles.
